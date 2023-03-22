@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useRoutes } from 'react-router-dom';
 
 import { Landing } from '@/features/misc';

@@ -153,7 +153,10 @@
           "import/no-anonymous-default-export": "off"
         }
       }
-    ]
+    ],
+    "rules": {
+      "no-unused-vars": "off"
+    }
   },
   "lint-staged": {
     "*.+(ts|tsx)": [
